@@ -25,6 +25,7 @@ public class DisplayScript extends ActionBarActivity {
         textView.setText(message);
 
         // Set the text view as the activity layout
+        //test
         setContentView(textView);
     }
 
